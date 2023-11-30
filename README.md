@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hardworking and determined student currently in my second year of Computer Science license in Paul Sabatier University, with a good level of Chinese and fluent English. Versatile, excellent in teamwork and of course passionate of IT..
 
-👨‍💻 My personnal Website : https://titouanpastor.com  
+👨‍💻 My personnal Website : https://titouanpastor.ovh  
 
 📫 Reach me on titouan.pastor@gmail.com
 
