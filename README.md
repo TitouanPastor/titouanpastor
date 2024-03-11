@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hardworking and determined student currently in my second year of Computer Science license in Paul Sabatier University, with a good level of Chinese and fluent English. Versatile, excellent in teamwork and of course passionate of IT..
+Hardworking and determined student, currently in my first year of the apprenticeship engineering diploma in digital sciences at INP ENSEEIHT, with a good level of Chinese and fluent English. Versatile and excellent in teamwork, I am currently working for Orange in the artificial intelligence for sensitive HOME team.
 
 👨‍💻 My personnal Website : https://titouanpastor.ovh  
 
